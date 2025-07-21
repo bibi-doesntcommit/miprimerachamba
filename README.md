@@ -1,5 +1,9 @@
+![logo] (logo.png)
 # Nombre De Mi Empresa: Deepspace Protocore Tech
-Imported from Deepspace
+Slogan: Imported from Deepspace
 
 ## Tema
-Sitio Web ambientado en el mundo de Love and Deepspace.
+Sitio Web ambientado en el mundo de Love and Deepspace. (por favor no buscar juego, gracias :3)
+
+## Descripción 
+Empresa dedicada a la venta de Protocores en el mundo de Love and Deepspace.
