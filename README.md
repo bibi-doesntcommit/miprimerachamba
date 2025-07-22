@@ -1,4 +1,4 @@
-![logo] (logo.png)
+![logo](logo-sin-fondo.png)
 # Nombre De Mi Empresa: Deepspace Protocore Tech
 Slogan: Imported from Deepspace
 
